@@ -28,7 +28,19 @@
 - [Embroidery Digitizing 101 (video)](https://www.youtube.com/watch?v=qoZg1c6UwEI)
 - [Embroidery Digitizing 101 (cheatsheet)](https://www.digitizingmadeeasy.com/wp-content/uploads/2022/03/CheatSheet.pdf)
 - [Beginner's Guide](https://www.digitizingmadeeasy.com//machine-embroidery-basics-for-beginners/)
-  
+- Stitch Density Conversion
+
+| PED10/11 (l/mm) | Hatch/FCTU (mm) |
+| --- | --- |
+| 2.5 | 0.8/0.9 |
+| 3.0 | 0.7 |
+| 3.5 | 0.6/0.5 |
+| 4.0 | 0.5 |
+| **4.5** | **0.5/0.4** |
+| 5.0 | 0.4 |
+| 5.5 | 0.4/0.3 |
+| 6.0 | 0.4/0.3 |
+
 ## Projects
 ### InkStitch
 - [HappyFace emoji](https://silverseams.com/tutorials/digitizing-with-ink-stitch/index.html)
