@@ -10,6 +10,7 @@
 - [Installation - Inkstitch](https://inkstitch.org/docs/install/)
 - [Documentation](https://inkstitch.org/tutorials/)
 - [Quick Start](https://inkstitch.org/docs/basic-usage/)
+- [Beginner Tutorial Series](https://inkstitch.org/tutorials/resources/beginner-video-tutorials/)
 
 ### PE Design
 - [Download (Full)](https://support.brother.com/g/b/downloadtop.aspx?c=us&lang=en&prod=hf_design11eus)
