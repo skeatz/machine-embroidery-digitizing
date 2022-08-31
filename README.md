@@ -51,3 +51,6 @@
 - [Auto Punch](https://support.brother.com/g/s/hf/htmldoc/ped/im/ped11/en/PED11_EN/index.html#!/06_1605232)
 - [Manual Punch](https://www.youtube.com/watch?v=6Jmpp7MNW44)
 - [Auto Punch vs Manual Punch](https://www.youtube.com/watch?v=rihC-8gZptM)
+
+### Sample Graphics
+- [pics](/images)
