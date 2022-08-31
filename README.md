@@ -53,4 +53,4 @@
 - [Auto Punch vs Manual Punch](https://www.youtube.com/watch?v=rihC-8gZptM)
 
 ### Sample Graphics
-- [pics](/images)
+- [pics](images/)
