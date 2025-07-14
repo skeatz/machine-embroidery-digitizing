@@ -1,4 +1,6 @@
 # Introduction of Machine Embroidery (Digitizing)
+## Presentation
+- [Introduction to Machine Embroidery](/files/Intro%20to%20Machine%20Embroidery_2025-07.pdf)
 ## Softwares
 ### Inkscape
 - [Installation - Inkscape](https://inkscape.org/release/inkscape-1.2.1/)
