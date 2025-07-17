@@ -1,6 +1,6 @@
 # Introduction of Machine Embroidery (Digitizing)
 ## Presentation
-- [Introduction to Machine Embroidery](/files/Intro%20to%20Machine%20Embroidery_2025-07.pdf)
+- [Introduction to Machine Embroidery](IntroMachineEmbroidery_2025-07.pdf)
 
 ## Softwares
 ### Inkscape
